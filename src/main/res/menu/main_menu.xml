@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/myprofile"
+        android:title="Profile"
+        android:icon="@drawable/icon_profile"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/rateus"
+        android:title="Rate Us"
+        android:icon="@drawable/icon_rateus"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        android:icon="@drawable/icon_about"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/signout"
+        android:title="Log Out"
+        android:icon="@drawable/icon_logout"
+        app:showAsAction="never"/>
+
+</menu>

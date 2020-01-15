@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "28335488548",
+    "firebase_url": "https://veyer-88538.firebaseio.com",
+    "project_id": "veyer-88538",
+    "storage_bucket": "veyer-88538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28335488548:android:788553beeb72af00a262b1",
+        "android_client_info": {
+          "package_name": "com.avenashp.VRopto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28335488548-q5rrasqcu733rq2idd4m5v6aiphl0v20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avenashp.VRopto",
+            "certificate_hash": "354b18f78ed495a311304a9e65cca376c9dd9a4b"
+          }
+        },
+        {
+          "client_id": "28335488548-pbefq199ifd92lqg7b0akp1ibqkpa5c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3jra-G43pUnkQS1wEXvnwAw3vCewZbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28335488548-pbefq199ifd92lqg7b0akp1ibqkpa5c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
